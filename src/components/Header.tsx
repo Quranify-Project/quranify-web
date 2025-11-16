@@ -11,7 +11,7 @@ interface HeaderProps {
 const Header = ({ toggleSidebar }: HeaderProps) => {
   // const [user] = useState<any>(null); // Always null for now (no auth system)
   // const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const dropdownRef = useRef<HTMLDivElement>(null);
+  // const dropdownRef = useRef<HTMLDivElement>(null);
 
   // Close dropdown when clicking outside
   // useEffect(() => {
