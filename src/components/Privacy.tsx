@@ -22,7 +22,7 @@ const PrivacyPolicy = () => {
           </section>
   
           <section>
-            <h2 className="text-2xl font-semibold mb-2">7. Contact</h2>
+            <h2 className="text-2xl font-semibold mb-2">3. Contact</h2>
             <p>
               For privacy concerns: <a href="mailto:privacy@quranify.xyz" className="text-blue-600">privacy@quranify.xyz</a>
             </p>
